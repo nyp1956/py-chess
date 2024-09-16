@@ -1,0 +1,16 @@
+[
+    "a3,a4,b3,b4,c3,c4,d3,d4,e3,e4,f3,f4,g3,g4,h3,h4,Na3,Nc3,Nf3,Nh3",
+    "Ne5,Ng5,Nh4,Ng1,Nfd2,a3,a4,b3,b4,c3,c4,e3,e4,g3,h3,h4,Na3,Nc3,Nbd2,Bd2,Be3,Bf4,Bg5,Bh6,Qd2,Qd3,Kd2,Rg1",
+    "a3,a4,b3,b4,c3,c4,e3,e4,f3,f4,g3,h3,h4,Na3,Nc3,Nd2,Bd2,Be3,Bf4,Bg5,Bh6,Qd2,Qd3,Kd2,Rg1",
+    "Nd7,Nc6,Na6,Qd7,Qd6,Qc8,Kd7,Nh6,Nf6,Rh7,Rh6,Rh5,Rxh4,a6,a5,b6,b5,c6,c5,e6,e5,f6,f5,g6,g5,g3,gxh3",
+    "a3,a4,b3,b4,c3,c4,e3,e4,f3,f4,g3,g4,gxh3,Na3,Nc3,Nd2,Bd2,Be3,Bf4,Bg5,Bh6,Qd2,Qd3,Kd2,Rh2,Rxh3,Rg1",
+    "Nd7,Nc6,Na6,Qd7,Qd6,Qc8,Kd7,Nh6,Nf6,a6,a5,b6,b5,c6,c5,e6,e5,f6,f5,g6,g5,dxc4,g1=N,g1=B,g1=R,g1=Q,gxf1=N,gxf1=B,gxf1=R+,gxf1=Q+",
+    "Rb8,Rc8,Rd8,Re8,Kg8,Ke8,a6,a5,b6,b5,c6,c5,Qc8,Qd8,Qe8,Qe6,Qdf5,Qg4,Qdh3,Qd6,Qd5,Qxd4,Qc6,Qb5,Qa4,e6,e5,f6,f5,g6,g5,Qg8,Qh8,Qh6,Qh5,Qh4,Qhh3,Qh2,Qh1+,Qg6,Qhf5,Qe4,Qd3,Qc2,Qb1,Na6,Nc6,Nd5,Nd3+,Nc2+,Nxa2",
+    "d6,dxc6,a3,a4,b3,b4,c3,c4,e3,e4,f3,f4,g3,g4,h3,h4,Na3,Nc3,Nd2,Bd2,Be3,Bf4,Bg5,Bh6,Qd2,Qd3,Qd4,Kd2,Nf3,Nh3",
+    "b8=N,b8=B,b8=R,b8=Q,bxa8=N,bxa8=B,bxa8=R,bxa8=Q,bxc8=N,bxc8=B,bxc8=R,bxc8=Q,d6,dxc6,e5,b3,b4,c3,c4,f3,f4,g3,g4,h3,h4,Ra2,Ra3,Ra4,Ra5,Rxa6,Na3,Nc3,Nd2,Bd2,Be3,Bf4,Bg5,Bh6,Qd2,Qd3,Qd4,Qe2,Qf3,Qg4,Qh5,Kd2,Ke2,Be2,Bd3,Bc4,Bb5,Bxa6,Ne2,Nf3,Nh3",
+    "d6,e5,Nd4,Ne5,Ng5,Nh4,Ng1,Nfd2,b3,b4,c3,c4,Bd3,Bc4,Bb5,Bxa6,Bf1,g3,g4,h3,h4,Ra2,Ra3,Ra4,Rxa5,Na3,Nc3,Nbd2,Bd2,Be3,Bf4,Bg5,Bh6,Qd2,Qd3,Qd4,Kd2,Kf1,Rg1,Rf1,O-O",
+    "Rb8,Rc8,Rd8,Ra7,Kf8,Kd8,Rg8,Rf8,Bc8,Bc6,Bxd5,Qb8,Qc8,Qd8,Qd6,Qe5,Qf4,Qg3,Qxh2,Qc6,Qb6,d6,e6,e5,Bf8,Bh6,h6,h5,Ng8,Nh5,Ng4,Nxe4,Nxd5,g5,Nc6,Nc4,Nxb3,c4,O-O,O-O-O",
+    "e5,b4,Na4,Nb5,Nd1,Nb1,Na2,Nd4,Ne5,Ng5,Nxh4,Ng1,Ba3,Bc1,Qd3,Qd4,Qe3,Qf4,Qg5,Qh6,Qd1,Qc1,Bd3,Bc4,Bb5+,Bxa6,Bf1,Bd1,g3,g4,h3,Ra2,Ra3,Ra4,Rxa5,Rb1,Rc1,Rd1,Kf1,Kd1,Rg1,Rf1,O-O,O-O-O",
+    "e5,b4,Na4,Nb5,Nd1,Nb1,Na2,Nd4,Ne5,Ng5,Nxh4,Ng1,Ba3,Bc1,Qd3,Qd4,Qe3,Qf4,Qg5,Qh6,Qd1,Qc1,Bd3,Bc4,Bb5+,Bxa6,Bf1,Bd1,g3,g4,h3,Ra2,Ra3,Ra4,Rxa5,Rb1,Rc1,Rd1,Kf1,Kd1,Rg1,Rf1,O-O",
+    "e5,b4,Na4,Nb5,Nd1,Nb1,Na2,Nd4,Ne5,Ng5,Nxh4,Ng1,Ba3,Bc1,Qd3,Qd4,Qe3,Qf4,Qg5,Qh6,Qd1,Qc1,Bd3,Bc4,Bb5+,Bxa6,Bf1,Bd1,g3,g4,h3,Ra2,Ra3,Ra4,Rxa5,Rb1,Rc1,Rd1,Kf1,Kd1,Rg1,Rf1"
+]
